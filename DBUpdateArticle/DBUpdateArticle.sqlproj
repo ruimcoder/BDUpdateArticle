@@ -12,8 +12,8 @@
     <OutputType>Database</OutputType>
     <RootPath>
     </RootPath>
-    <RootNamespace>SampleDB</RootNamespace>
-    <AssemblyName>SampleDB</AssemblyName>
+    <RootNamespace>DBUpdateArticle</RootNamespace>
+    <AssemblyName>DBUpdateArticle</AssemblyName>
     <ModelCollation>1033,CI</ModelCollation>
     <DefaultFileStructure>BySchemaAndSchemaType</DefaultFileStructure>
     <DeployToDatabase>True</DeployToDatabase>
