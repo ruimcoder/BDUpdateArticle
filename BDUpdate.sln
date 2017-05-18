@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SampleDB", "SampleDB\SampleDB.sqlproj", "{8CD6676A-F0C4-4C58-B0C3-D89096B1E7D9}"
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DBUpdateArticle", "DBUpdateArticle\DBUpdateArticle.sqlproj", "{8CD6676A-F0C4-4C58-B0C3-D89096B1E7D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
