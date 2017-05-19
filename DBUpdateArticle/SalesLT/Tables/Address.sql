@@ -1,4 +1,5 @@
-﻿CREATE TABLE [SalesLT].[Address] (
+﻿
+CREATE TABLE [SalesLT].[Address] (
     [AddressID]     INT              IDENTITY (1, 1) NOT NULL,
     [AddressLine1]  NVARCHAR (60)    NOT NULL,
     [AddressLine2]  NVARCHAR (60)    NULL,
